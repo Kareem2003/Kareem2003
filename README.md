@@ -4,6 +4,8 @@
 
 I'm a **software engineer** who's always exploring new ways to build cool things with code. Whether it's mobile apps, web apps, or DevOps, I'm constantly diving deep into the tech world and pushing boundaries. Check out some of my work and let's connect!
 
+**Have a look at my [portofolio](https://kareem2003.github.io/kareem/)**
+
 ### 🚀 About Me:
 - 🔭 **Currently building:**  
   I'm working on **groundbreaking projects** like a **futuristic medical app** with **AI-powered doctor recommendations**. Healthcare tech, but cooler. 😎
