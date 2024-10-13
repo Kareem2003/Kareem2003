@@ -10,7 +10,7 @@ I'm a **software engineer** who's always exploring new ways to build cool things
 - 🌱 **Currently learning:**  
   Leveling up my skills in **React Native** with Expo and diving into the world of **DevOps** to streamline and automate all the things!
 - 📫 **How to reach me:**  
-  Shoot me a message at [My Email](kareemabdallah061@gmail.com) or find me on [LinkedIn](https://www.linkedin.com/in/kareem2003/).
+  Shoot me a message at my [Email](mailto:kareemabdallah061@gmail.com) or find me on [LinkedIn](https://www.linkedin.com/in/kareem2003/).
 - 😄 **Pronouns:**  
   He/Him
 - ⚡ **Fun fact:**  
